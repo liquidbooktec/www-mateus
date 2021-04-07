@@ -1802,36 +1802,13 @@ body {
     text-align: center;
   }
 }
-.cid-stKHH0g63Q {
-  background-image: url("../../../assets/images/youtube-thumbnail-maker-for-healthy-cooking-tip-vlogs-901b-2-1280x720.png");
+.cid-stUXlZjNvW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
 }
-.cid-stKHH0g63Q .form-control,
-.cid-stKHH0g63Q .form-control:focus {
-  background: #ffffff;
-  border: 1px solid #ffffff;
-}
-.cid-stKHH0g63Q .form-container {
-  transition: all .2s;
-  border: 1px solid #ffffff;
-  padding: 1rem;
-  background: linear-gradient(#000000, #000000);
-  border: none;
-}
-.cid-stKHH0g63Q textarea.form-control {
-  min-height: 188px;
-}
-.cid-stKHH0g63Q .input-group-btn {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-stKHH0g63Q .row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 768px) {
-  .cid-stKHH0g63Q .row .content-container {
-    padding-left: 5rem;
-  }
+.cid-stUXlZjNvW P {
+  color: #767676;
 }
 .cid-rfW13rfQ7O {
   padding-top: 135px;
